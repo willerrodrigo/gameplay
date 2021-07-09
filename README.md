@@ -78,7 +78,6 @@ CDN_IMAGE=
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-<br />
 
 ## :mailbox_with_mail: Contato
 
